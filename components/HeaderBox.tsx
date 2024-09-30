@@ -6,7 +6,6 @@ const HeaderBox = ({
   subtext,
   user,
 }: HeaderBoxProps) => {
-  console.log(user)
   return (
     <div className="header-box">
       <h1 className="header-box-title">
